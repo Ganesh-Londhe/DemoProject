@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace DemoGitt
 {
-    class Program
+    class NewClass
     {
-        static void Main(string[] args)
-        {
-            //i have added some codein main file.
-        }
     }
 }
