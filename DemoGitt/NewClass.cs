@@ -8,5 +8,6 @@ namespace DemoGitt
 {
     class NewClass
     {
+        //added cllass data
     }
 }
